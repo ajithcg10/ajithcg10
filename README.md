@@ -16,6 +16,8 @@ From clean frontend interfaces to solid backend systems — I build end-to-end s
 - JavaScript
 - React
 - Vue
+- TailWind css
+- TypeScript
 
 ### Animation
 - GSAP
